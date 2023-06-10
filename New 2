@@ -2,8 +2,8 @@ from itertools import cycle
 from random import randrange
 from tkinter import Canvas, Tk, messagebox, font
 
-canvas_width = 805
-canvas_height = 405
+canvas_width = 810
+canvas_height = 410
 
 root = Tk()
 root.title("Egg Catcher")
